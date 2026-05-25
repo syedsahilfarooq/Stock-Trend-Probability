@@ -1,0 +1,26 @@
+Stock,Up_Probability,Down_Probability
+Apple,0.64,0.36
+Microsoft,0.61,0.39
+Tesla,0.58,0.42
+Amazon,0.63,0.37
+Google,0.66,0.34
+NVIDIA,0.71,0.29
+Meta,0.59,0.41
+Netflix,0.55,0.45
+AMD,0.62,0.38
+Intel,0.48,0.52
+Reliance,0.67,0.33
+TCS,0.65,0.35
+Infosys,0.60,0.40
+HDFC Bank,0.57,0.43
+ICICI Bank,0.59,0.41
+SBI,0.54,0.46
+Wipro,0.51,0.49
+Adani Ports,0.56,0.44
+Tata Motors,0.62,0.38
+Maruti,0.64,0.36
+Bharti Airtel,0.66,0.34
+Paytm,0.47,0.53
+Zomato,0.58,0.42
+Flipkart,0.55,0.45
+JP Morgan,0.61,0.39
